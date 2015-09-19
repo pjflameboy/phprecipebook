@@ -1,0 +1,6 @@
+Upgrading
+
+2.x/3.x to 4.0
+
+The schema has changed substantially from 3 to 4.  The schema upgrade script will alter all tables for MySQL but will not give every user a set of their own ingredients.
+  A conversion script can be written if there is sufficient interest.  Otherwise if you are running as a single user (user ID 1) this will not be an issue.

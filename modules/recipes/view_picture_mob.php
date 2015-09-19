@@ -1,0 +1,1 @@
+<img src="./modules/recipes/view_picture.php?recipe_id=<?php echo $_GET['recipe_id'];?>"/>
